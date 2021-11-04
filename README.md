@@ -1,1 +1,1 @@
-# Skoly
+# SkolickyWeb
