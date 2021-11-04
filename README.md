@@ -1,2 +1,2 @@
 # SkolickyWeb
-odkaz - http://jakubvejzn.cekuj.net/ 
+[odkaz](http://jakubvejzn.cekuj.net/)
